@@ -1,8 +1,8 @@
 {
   "name": "siyuan-comment",
   "author": "whale🐋",
-  "url": "https://github.com/HaoCeans/comment",
-  "version": "1.0.0",
+  "url": "https://github.com/HaoCeans/siyuan-comment",
+  "version": "2.0.0",
   "minAppVersion": "3.0.0",
   "backends": [
     "all"
@@ -12,12 +12,12 @@
   ],
   "displayName": {
     "default": "鲸鱼快速批注",
-    "en_US": "Whale Quick Comment",
-    "zh_CN": "鲸鱼快速批注"
+    "en": "Whale Quick Comment",
+    "zh-CN": "鲸鱼快速批注"
   },
   "description": {
     "default": "Professional annotation plugin — select text, add comments, manage in sidebar, with slide-to-annotate, tagging, and cross-document navigation.",
-    "zh_CN": "专业批注插件：选中文字添加批注，侧边栏管理，支持滑动快速批注、标签分类、跨文档跳转。"
+    "zh-CN": "专业批注插件：绝对安全、零污染、数据永久原始保留。选中文字添加批注，侧边栏管理，支持滑动快速批注、标签分类、跨文档跳转。"
   },
   "keywords": [
     "comment",
