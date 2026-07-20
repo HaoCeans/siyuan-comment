@@ -2,7 +2,7 @@
   "name": "siyuan-comment",
   "author": "whale🐋",
   "url": "https://github.com/HaoCeans/siyuan-comment",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "minAppVersion": "3.0.0",
   "backends": [
     "all"
@@ -17,7 +17,7 @@
   },
   "description": {
     "default": "Professional annotation plugin — select text, add comments, manage in sidebar, with slide-to-annotate, tagging, and cross-document navigation.",
-    "zh-CN": "专业批注插件：绝对安全、零污染、数据永久原始保留、万字文档秒批。选中文字添加批注，侧边栏管理，支持滑动快速批注、标签分类、跨文档跳转。"
+    "zh-CN": "专业批注插件：绝对安全、零污染、数据永久原始保留、万字文档秒批、可离线使用。选中文字添加批注，侧边栏管理，支持滑动快速批注、标签分类、跨文档跳转。"
   },
   "keywords": [
     "comment",
