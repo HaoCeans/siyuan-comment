@@ -2,7 +2,7 @@
   "name": "siyuan-comment",
   "author": "whale🐋",
   "url": "https://github.com/HaoCeans/siyuan-comment",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "minAppVersion": "3.0.0",
   "backends": [
     "all"
@@ -25,5 +25,8 @@
     "批注",
     "标注",
     "笔记"
-  ]
+  ],
+  "readme": {
+    "default": "README.md"
+  }
 }
