@@ -12,6 +12,8 @@
 
   <a href="https://github.com/HaoCeans/siyuan-comment/issues">💌 插件建议反馈</a>
   &nbsp;·&nbsp;
+  <a href="https://qm.qq.com/q/pVIyMulbS8">💬 用户交流群</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/HaoCeans/comment">⭐ GitHub</a>
 
 </div>
