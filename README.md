@@ -4,6 +4,14 @@
 
 选中即标 · 侧栏管理 · 滑动速记 · 零污染正文
 
+<a href="https://zhuanlan.zhihu.com/p/2064425147713508327">
+  <img src="https://img.shields.io/badge/知乎-阅读党必备—思源专业批注插件-007AFF?logo=zhihu&logoColor=white" alt="知乎教程" height="22"/>
+</a>
+&nbsp;
+<a href="https://www.bilibili.com/video/BV1Nv336uEjc/">
+  <img src="https://img.shields.io/badge/B站-思源笔记插件推荐：阅读党必备—专业批注插件-00A1D6?logo=bilibili&logoColor=white" alt="B站视频" height="22"/>
+</a>
+
 </div>
 
 > 🔒 **插件声明**：绝对安全、零污染、数据永久原始保留、万字文档秒批、可离线使用。删除插件后，选中文本自动恢复原生下划线，批注笔记原样保留在思源内；可继续依赖思源本体的块引用、反链，查看、编辑和修改。仅失去弹窗批注和侧边栏功能。
@@ -15,19 +23,8 @@
   <a href="https://qm.qq.com/q/pVIyMulbS8">💬 用户交流群</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/HaoCeans/comment">⭐ GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="#-教程资源">📖 教程</a>
 
 </div>
-
----
-
-# 📖 教程资源
-
-| | 标题 | 链接 |
-|---|------|------|
-| 📝 | 《阅读党必备——思源专业批注插件》 | [→ 知乎专栏](https://zhuanlan.zhihu.com/p/2064425147713508327) |
-| 🎬 | 思源笔记插件推荐：《阅读党必备—专业批注插件》 | [→ B站视频](https://www.bilibili.com/video/BV1Nv336uEjc/) |
 
 ---
 
