@@ -2,7 +2,7 @@
   "name": "siyuan-comment",
   "author": "whale🐋",
   "url": "https://github.com/HaoCeans/siyuan-comment",
-  "version": "2.2.3",
+  "version": "2.3.0",
   "minAppVersion": "3.0.0",
   "backends": [
     "all"
@@ -16,15 +16,17 @@
     "zh-CN": "鲸鱼快速批注"
   },
   "description": {
-    "default": "Professional annotation plugin — select text, add comments, manage in sidebar, with slide-to-annotate, tagging, and cross-document navigation.",
-    "zh-CN": "专业批注插件：绝对安全、零污染、数据永久原始保留、万字文档秒批、可离线使用。选中文字添加批注，侧边栏管理，支持滑动快速批注、标签分类、跨文档跳转。"
+    "default": "Professional annotation plugin — select text, add comments, manage in sidebar, with slide-to-annotate, tagging, cross-document navigation, and AI-powered explanation.",
+    "zh-CN": "专业批注插件：绝对安全、零污染、数据永久原始保留、万字文档秒批、可离线使用。选中文字添加批注，侧边栏管理，支持滑动快速批注、标签分类、跨文档跳转、AI 解释（思源原生 AI 驱动）。"
   },
   "keywords": [
     "comment",
     "annotation",
     "批注",
     "标注",
-    "笔记"
+    "笔记",
+    "AI",
+    "人工智能"
   ],
   "readme": {
     "default": "README.md"
