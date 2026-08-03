@@ -11,10 +11,6 @@
 <a href="https://www.bilibili.com/video/BV1Nv336uEjc/">
   <img src="https://img.shields.io/badge/B站-思源笔记插件推荐：阅读党必备—专业批注插件-00A1D6?logo=bilibili&logoColor=white" alt="B站视频" height="22"/>
 </a>
-&nbsp;
-<a href="https://ld246.com/article/1785144064504">
-  <img src="https://img.shields.io/badge/链滴-思源笔记接入 AI 后，我想重新定义一下“批注”-3A9B60" alt="链滴文章" height="22"/>
-</a>
 
 </div>
 
