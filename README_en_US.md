@@ -22,15 +22,11 @@ Select to annotate · Sidebar management · Slide to comment · Zero pollution
 
 ---
 
-# 📱 Full Platform Support
+# 🎨 Full Platform Support
 
-Works on desktop, mobile, and tablet, with interactions adapted per platform:
-
-| Platform | Comment panel | Slide-to-annotate | Continuous mode | How to exit |
-|---|---|---|---|---|
-| **Desktop** (Windows / macOS / Linux / Browser) | Dock panel | Mouse drag-select | ✅ Supported | `ESC` key |
-| **Mobile** (App / Mobile browser) | Sidebar comment tab | Touch swipe | Single comment | Auto-exit after creating |
-| **Tablet** (App / Tablet browser) | Floating right panel | Touch swipe | ✅ Supported | Bottom toolbar「Exit」button |
+- **Desktop:** Windows · macOS · Linux · Browser
+- **Tablet:** iOS · HarmonyOS · Android · Tablet browser
+- **Mobile:** iOS · HarmonyOS · Android · Mobile browser
 
 # ✨ Core Features
 
