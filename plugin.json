@@ -2,7 +2,7 @@
   "name": "siyuan-comment",
   "author": "whale🐋",
   "url": "https://github.com/HaoCeans/siyuan-comment",
-  "version": "2.7.9",
+  "version": "2.8.0",
   "minAppVersion": "3.8.2",
   "disabledInPublish": true,
   "backends": [
